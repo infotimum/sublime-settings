@@ -1,0 +1,31 @@
+{
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+  "caret_extra_width"                 : 1,
+  "caret_style"                       : "phase",
+  "draw_minimap_border"               : true,
+  "ensure_newline_at_eof_on_save"     : true,
+  "font_face"                         : "SF Mono",
+  "font_size"                         : 14,
+	"font_options"                      : ["subpixel_antialias","no_round"],    // On retina Mac & Windows you can also add "gray_antialias" if you like
+  "highlight_line"                    : true,
+  "ignored_packages"                  : ["Vintage"],
+  "line_padding_bottom"               : 5,
+  "line_padding_top"                  : 5,
+  "translate_tabs_to_spaces"          : true,
+  "trim_trailing_white_space_on_save" : true,
+
+  "overlay_scroll_bars"               : "enabled",
+	"always_show_minimap_viewport"      : true,
+	"bold_folder_labels"                : true,
+	"indent_guide_options"              : [ "draw_normal", "draw_active" ],   // Highlight active indent
+  "word_wrap": true,
+  "open_files_in_new_window": false,
+  "gutter": true,
+  "margin": 0,
+  "tab_size": 2,
+  "scroll_past_end": true,
+}
